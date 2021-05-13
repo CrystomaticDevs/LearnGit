@@ -79,7 +79,9 @@ public class pos {
           } //after Ending While loop below codes execute....
         grandTotal = (item1Total + item2Total + item3Total); 
           System.out.println("Customer Name is" +' ' +cusName +' '+"Grand Total is"+' '+"Rs:"+grandTotal); 
-           System.out.println("You done Your Billing and lets Go"); // Changes Done by Shaheem
+
+           System.out.println("ThankYou!! WelCome again!!!");
+		System.out.println("Change done by Rusiru");
               
     }
 
