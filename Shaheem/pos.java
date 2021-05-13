@@ -24,6 +24,10 @@ public class pos {
         int grandTotal = 0;
         
      System.out.println("*** Point of Sales System ***");
+		
+	System.out.println("Enter Goods code number for buy... 1 -MilkPack 2-Chocalate 3-CoffeePack"); 
+        System.out.println("For Check Available QTY ! Press 9 ");   // change number 
+        System.out.println("For Finish Billing! Press 0 ");
      
      Scanner sa = new Scanner(System.in);
      System.out.println("Enter Customer Name");  // Request to Enter Customer Name 
@@ -63,7 +67,7 @@ public class pos {
                     item3Total= (qty2*$sd);
                      System.out.println("Sub Total is"+' '+item3Total);
           }  
-          else if(goods == 5) {  // If Cashier Enter Number 5 then Running below Code.... Print Available QTY...
+          else if(goods == 9) {  // If Cashier Enter Number 9 then Running below Code.... Print Available QTY...
             System.out.println("Total Availabe QTY is" + ' '+"Milk =" +qtyReMilk +' '+"Chocalate="+ qtyReduceChoc +' '+"CoffeePacks="+qtyReCoffee);
 
           }
