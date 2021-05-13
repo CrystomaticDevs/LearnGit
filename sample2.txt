@@ -1,4 +1,3 @@
-this is my first project. 
 cinec campus
 malabe
 software engineering
