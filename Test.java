@@ -11,7 +11,7 @@ public class Test {
 	System.out.println("Hello world!");
 
 	System.out.println("Hello world!");
-	System.out.println("Hello Srilanka!");
+	System.out.println("Hello Srilanka! Stay Safe !");
 
 
     }
