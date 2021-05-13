@@ -4,12 +4,17 @@ public class Test {
     public static void main(String[] args) {
         
 	System.out.println("Hello");
+	System.out.println("Hello By dinuka");
 
 	System.out.println("Hello world!");
+
 
 	String name = janaka;
 
         System.out.println(name);
+
+
+	System.out.println("Hello Srilanka!");
 
 
     }
