@@ -80,7 +80,7 @@ public class pos {
         grandTotal = (item1Total + item2Total + item3Total); 
           System.out.println("Customer Name is" +' ' +cusName +' '+"Grand Total is"+' '+"Rs:"+grandTotal); 
            System.out.println("ThankYou!! WelCome again!!!");
-		System.out.println("ThankYou!! WelCome again!!!");
+		System.out.println("Change done by Rusiru");
               
     }
 
