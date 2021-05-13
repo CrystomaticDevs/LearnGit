@@ -12,6 +12,16 @@ public class Test {
 	System.out.println("Hello world!");
 
 	System.out.println("Hello world!");
+
+
+
+	String name = janaka;
+
+        System.out.println(name);
+
+
+	System.out.println("Hello Srilanka!");
+
 	System.out.println("Hello Srilanka! Stay Home ! Stay Safe !");
 
 
@@ -29,6 +39,7 @@ public class Test {
 
 
         System.out.println("Hello Dinuka!");
+
 
 
     }
