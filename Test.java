@@ -7,6 +7,10 @@ public class Test {
 
 	System.out.println("Hello world!");
 
+	String name = janaka;
+
+        System.out.println(name);
+
 
     }
     
