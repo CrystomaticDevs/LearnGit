@@ -8,7 +8,7 @@ public class Test {
 
 	System.out.println("Hello world!");
 
-	String name = janaka;
+	String name = "janaka";
 
         System.out.println(name);
 
@@ -27,7 +27,7 @@ public class Test {
 	System.out.println("Hello 6");
 
 
-	for(int x=0,x<10;x++){
+	for(int x=0;x<10;x++){
 		System.out.println("Hello"+x);
 	}
 
